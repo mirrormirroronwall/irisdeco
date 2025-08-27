@@ -10,7 +10,7 @@
 
 请在手机端下方/电脑端右侧的Releases中下载
 
-前置mod允许二改二传
+本mod允许二改二传，基于本mod创作的衍生mod，其版权归衍生作者所有
 
 <img width="821" height="334" alt="ab23fb4b4b1e6d7679fe50f728a65932" src="https://github.com/user-attachments/assets/51631024-67c3-4de9-a223-8c6e52842f84" />
 
