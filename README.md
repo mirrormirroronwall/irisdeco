@@ -8,6 +8,8 @@
 
 图包：供美化作者使用的模板，编辑方式见图片
 
+前置文件允许二改二传
+
 <img width="821" height="334" alt="ab23fb4b4b1e6d7679fe50f728a65932" src="https://github.com/user-attachments/assets/51631024-67c3-4de9-a223-8c6e52842f84" />
 
 <img width="963" height="387" alt="09f5ec93375b7ca9335964aac17ee8c9" src="https://github.com/user-attachments/assets/ab78bd64-1daa-4a4e-9444-0591e1797098" />
