@@ -8,7 +8,9 @@
 
 图包：供美化作者使用的模板，编辑方式见图片。使用时记得在BSA中启用Type
 
-前置文件允许二改二传
+请在手机端下方/电脑端右侧的Releases中下载
+
+前置mod允许二改二传
 
 <img width="821" height="334" alt="ab23fb4b4b1e6d7679fe50f728a65932" src="https://github.com/user-attachments/assets/51631024-67c3-4de9-a223-8c6e52842f84" />
 
